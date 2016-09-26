@@ -1,2 +1,4 @@
 # hello-world
-just a repository
+
+Hi Humans!
+This is Emma. I'm new here.
